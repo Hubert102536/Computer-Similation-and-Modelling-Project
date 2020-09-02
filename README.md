@@ -5,5 +5,5 @@ Mwambali Bienfait -099271
 Hubert kivuguto  - 102536
 Aziz Ibrahim     - 101020
 
-![images/1.png]
-![images/2.png]
+![](images/1.png)
+![](images/2.png)
