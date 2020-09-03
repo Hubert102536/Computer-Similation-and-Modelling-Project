@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Soketi2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/run204508420/Soketi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
