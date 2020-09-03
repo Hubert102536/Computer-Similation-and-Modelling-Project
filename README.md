@@ -1,4 +1,4 @@
-# Distributed system-Project
+# Distributed systems-Project
 Group members
 Antony kivai    - 101532
 Mwambali Bienfait -099271
