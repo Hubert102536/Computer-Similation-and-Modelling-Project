@@ -1,4 +1,4 @@
-# Computer-Similation-and-Modelling-Project
+# Distributed system-Project
 Group members
 Antony kivai    - 101532
 Mwambali Bienfait -099271
